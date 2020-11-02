@@ -1,5 +1,5 @@
 {
-  "name": "int_ca-3",
+  "name": "TextToSpeech",
   "version": "1.0.0",
   "description": "Text-to-speech-app",
   "main": "app.js",
