@@ -1,0 +1,14 @@
+{
+  "name": "int_ca-3",
+  "version": "1.0.0",
+  "description": "Text-to-speech-app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Shantanu Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
