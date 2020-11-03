@@ -1,5 +1,5 @@
 # Text-to-Speech-App
-The application is coded using HTML, CSS , JavaScript &amp; NodeJS technologies. 
+The application is coded using HTML, CSS , JavaScript-(NodeJS/ExpressJs) technologies. 
 
 # Before-Running-Code
 1: npm init -> inside the folder for installing node modules
